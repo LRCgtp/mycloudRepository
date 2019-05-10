@@ -1,0 +1,11 @@
+spring:
+  profiles: test1
+my:
+  name: xiaoming
+
+---
+spring:
+  profiles: test2
+my:
+  name: xiaohong
+
